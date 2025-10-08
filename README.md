@@ -11,27 +11,31 @@ The objective of this project is to develop a data-driven dashboard that helps t
 # Business Questions / KPIs
 
 <h2>Business Questions:</h2>
-What is the total number of loan applications, and how much has been funded and received?
-What percentage of loans are classified as good vs. bad?
-How do funded amounts vary by state, purpose, and borrower characteristics?
-Which loan terms and home ownership categories contribute most to funding?
-What is the overall loan performance in terms of repayment and interest rate trends?
+* What is the total number of loan applications, and how much has been funded and received?
+
+* What percentage of loans are classified as good vs. bad?
+  
+* How do funded amounts vary by state, purpose, and borrower characteristics?
+  
+* Which loan terms and home ownership categories contribute most to funding?
+  
+* What is the overall loan performance in terms of repayment and interest rate trends?
 
 <h2>Key Performance Indicators (KPIs):</h2>
 
-Total Loan Applications (38.6K)
+* Total Loan Applications (38.6K)
 
-Total Funded Amount ($435.8M)
+* Total Funded Amount ($435.8M)
 
-Total Amount Received ($473.1M)
+* Total Amount Received ($473.1M)
 
-Average Interest Rate (12%)
+* Average Interest Rate (12%)
 
-Average DTI (13.3%)
+* Average DTI (13.3%)
 
-Good Loan Percentage (86.2%)
+* Good Loan Percentage (86.2%)
 
-Bad Loan Percentage (13.8%)
+* Bad Loan Percentage (13.8%)
 
 <img width="1343" height="798" alt="Screenshot 2025-10-08 203629" src="https://github.com/user-attachments/assets/4c0b881d-8dbe-4510-9e2b-5ae6b7d3efe3" />
 
